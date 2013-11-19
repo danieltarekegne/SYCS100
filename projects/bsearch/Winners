@@ -17,3 +17,4 @@ def bsearch(list,searchvalue):
             return mid
     return-1
 print bsearch (list,77) 
+   
